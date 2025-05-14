@@ -1,4 +1,4 @@
-# evensunnier
+# The Gang Gets Generated
 
 A simple text generator that takes in descriptions of episodes from It's Always Sunny in Philadelphia and uses a simple Markov-Chain based generator to produce "new" episode descriptions.
 
